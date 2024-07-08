@@ -1,10 +1,10 @@
-- 👋 Hi, I’m João COrreia
-- 👀 I’m interested in OS Linux (new for me), Windows, ERP,
-- 🌱 I’m currently learning Linux (Ubuntu)
-- 💞️ I’m looking to collaborate on A.I.
-- 📫 How to reach me: e-mail correia.joao@gmail.com
-- 😄 Pronouns: João
-- ⚡ Fun fact: Need to update :-)
+- 👋 Hello, I'm João Correia, born in Congo (Mbandaka), I studied in Portugal and I'm currently in Luanda (Angola);
+- 👀 I'm interested in Linux OS (new to me), Windows, ERP, SAP;
+- 🌱 I'm currently learning Linux (Ubuntu);
+- 💞️ I seek to collaborate on AI and BI;
+- 📫 How to contact me: correia.joao@gmail.com;
+- 😄 Pronouns: João;
+- ⚡ Fun fact: you need to update :-)
 
 <!---
 joaocorreia82/joaocorreia82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
