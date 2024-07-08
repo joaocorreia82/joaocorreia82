@@ -3,7 +3,7 @@
 - 🌱 I'm currently learning Linux (Ubuntu);
 - 💞️ I seek to collaborate on AI and BI;
 - 📫 How to contact me: correia.joao@gmail.com;
-- 😄 Pronouns: João;
+- 😄 Pronouns: he/him;
 - ⚡ Fun fact: you need to update :-)
 
 <!---
