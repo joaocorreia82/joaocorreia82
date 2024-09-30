@@ -1,5 +1,5 @@
 - 👋 Hello, I'm João Correia, born in Congo (Mbandaka), I studied in Portugal and I'm currently in Luanda (Angola);
-- 👀 I'm interested in Linux OS (new to me), Windows, ERP, SAP;
+- 👀 I'm interested in Linux OS (new to me), Windows, ERP, SAP, 365;
 - 🌱 I'm currently learning Linux (Ubuntu);
 - 💞️ I seek to collaborate on AI and BI;
 - 📫 How to contact me: correia.joao@gmail.com;
